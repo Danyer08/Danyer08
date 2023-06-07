@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-Hello, I'm Danyer Dominguez, a front-end engineer who has been working over more of 5 years as software developer in the IT, financial, and FinTech industries. 
+Hello, I'm Danyer Dominguez, a front-end engineer who has been working more than 6 years as software developer in the IT, financial, and FinTech industries. 
 
 My favorites hobbies are programming, play videogames with friends, and learn new things (of all matters).
 
@@ -12,9 +12,9 @@ My favorites hobbies are programming, play videogames with friends, and learn ne
 
 - Angular 2+
 - Ionic
-- NodeJs
 - React
 - Typescript
+- .Net Core
 
 ### Secondary
 
@@ -26,7 +26,6 @@ My favorites hobbies are programming, play videogames with friends, and learn ne
 - Material UI
 - NPM
 - Docker
-- .Net Core
 
 ### SOFTS
 
