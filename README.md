@@ -2,40 +2,26 @@
 
 ## ABOUT
 
-Hello, I'm Danyer Dominguez, a front-end engineer who has been working more than 6 years as software developer in the IT, financial, and FinTech industries. 
-
-My favorites hobbies are programming, play videogames with friends, and learn new things (of all matters).
+Expert software engineer with over 8 years of experience in full stack development, specialized in web technologies
+such as Javascript, Typescript, Node, Angular, React and .NET, delivering high-quality digital solutions that support
+client’s goals. Passionate about continuous learning and exploring new technologies.
 
 ## SKILLS
-
-### Main
 
 - Angular 2+
 - Ionic
 - React
+- React Native
 - Typescript
 - .Net Core
-
-### Secondary
-
+- Node
 - Rxjs
 - HTML
 - CSS
 - Git
 - Bootstrap
-- Material UI
-- NPM
+- Tailwind
 - Docker
-
-### SOFTS
-
-- Assertive communication
-- Teamwork
-- Problem solving
-- Organizational
-- Openness to criticism
-- Adaptability
-
 
 ## Platforms & Tools
 
@@ -43,5 +29,4 @@ My favorites hobbies are programming, play videogames with friends, and learn ne
 - Azure Devops
 - Github
 - Postman
-- GitKraken
-- VS code
+- Neovim
